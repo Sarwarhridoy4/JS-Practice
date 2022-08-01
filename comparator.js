@@ -9,5 +9,5 @@ else if(firstNumber < thirdNumber){
     console.log('Biggest Number Is:',thirdNumber);
 }
 else{
-    console.log(firstNumber);
+    console.log('Biggest Number Is:',firstNumber);
 }
