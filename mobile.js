@@ -3,7 +3,7 @@
 var mobile = ['Nokia','Symphony','Kgtel','Samsung','Xaomi'];
 
 var i = 0;
-while(i=0, i< mobile.length){
-    i++
+while(i< mobile.length){
     console.log(mobile[i]);
+    i++
 }
