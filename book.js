@@ -4,4 +4,14 @@ var booksPrice =[50, 100, 250, 350, 25, 275, 850, 60, 75, 900, 1050];
 
 var bookPrice = booksPrice.length;
 
+for (i = 0; i<bookPrice; i++){
+
+    if(bookPrice>200){
+        console.log(booksPrice[i]);
+        continue;
+        
+    }
+
+}
+
 
